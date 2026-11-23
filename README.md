@@ -24,7 +24,7 @@ São discutidos aspectos relacionados à produtividade no desenvolvimento de sof
 Os slides apresentam os principais conceitos abordados no artigo, destacando os desafios do controle de versão tradicional e a proposta desenvolvida pela Anthropic.
 
 📊 Acessar a apresentação:  [Apresentação](https://canva.link/hvha203x9z67e44)
-https://canva.link/hvha203x9z67e44
+
 
 ## Principais temas
 
