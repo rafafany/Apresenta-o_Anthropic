@@ -17,7 +17,6 @@ São discutidos aspectos relacionados à produtividade no desenvolvimento de sof
 - Bianca Ferrari
 - Rafaella Guimarães
 
-## Materiais
 
 ### Apresentação
 
