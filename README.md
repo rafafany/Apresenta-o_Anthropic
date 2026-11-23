@@ -24,7 +24,7 @@ Os slides apresentam os principais conceitos abordados no artigo, destacando os 
 
 📊 Acessar a apresentação:  [Apresentação](https://canva.link/hvha203x9z67e44)
 
-📊 ## Visualizar projeto  [CLIQUE AQUI PARA ACESSAR A SIMULAÇÃO](https://rafafany.github.io/Apresenta-o_Anthropic/git_vs_scion_corrigido%20(1).html)
+📊 ## Visualizar projeto  [Simulação](https://rafafany.github.io/Apresenta-o_Anthropic/git_vs_scion_corrigido%20(1).html)
 ## Principais temas
 
 - Anthropic e sua trajetória.
