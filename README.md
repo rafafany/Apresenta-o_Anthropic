@@ -23,7 +23,8 @@ São discutidos aspectos relacionados à produtividade no desenvolvimento de sof
 Os slides apresentam os principais conceitos abordados no artigo, destacando os desafios do controle de versão tradicional e a proposta desenvolvida pela Anthropic.
 
 📊 Acessar a apresentação:  [Apresentação](https://canva.link/hvha203x9z67e44)
-📊 Acessar ao modelo de Scio:  [Scion](file:///C:/Users/pedri/Desktop/git_vs_scion_corrigido.html)
+
+📊 Acessar ao modelo de Scio:  [Scion](file:///C:/Users/pedri/Desktop/git_vs_scion_corrigido%20(1).html)
 
 ## Principais temas
 
