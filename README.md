@@ -12,10 +12,10 @@ São discutidos aspectos relacionados à produtividade no desenvolvimento de sof
 
 ## Autores
 
-- [Brenda Ferrari]
-- [Bianca Scarton]
-- [Bianca Ferrari]
-- [Rafaella Guimarães]
+- Brenda Ferrari
+- Bianca Scarton
+- Bianca Ferrari
+- Rafaella Guimarães
 
 ## Materiais
 
@@ -23,7 +23,8 @@ São discutidos aspectos relacionados à produtividade no desenvolvimento de sof
 
 Os slides apresentam os principais conceitos abordados no artigo, destacando os desafios do controle de versão tradicional e a proposta desenvolvida pela Anthropic.
 
-📊 Acessar a apresentação: `apresentacao/apresentacao-anthropic.pdf`
+📊 Acessar a apresentação:  [Apresentação](https://canva.link/hvha203x9z67e44)
+https://canva.link/hvha203x9z67e44
 
 ## Principais temas
 
