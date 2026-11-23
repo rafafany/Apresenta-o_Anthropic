@@ -24,7 +24,7 @@ Os slides apresentam os principais conceitos abordados no artigo, destacando os 
 
 📊 Acessar a apresentação:  [Apresentação](https://canva.link/hvha203x9z67e44)
 
-📊 Visualizar projeto[ Clique aqui para visualizar o projeto HTML](git_vs_scion_corrigido (1).html)
+📊 Visualizar projeto[ Clique aqui para visualizar o projeto HTML](./git_vs_scion_corrigido (1).html)
 
 ## Principais temas
 
